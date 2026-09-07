@@ -16,7 +16,7 @@ namespace Ismetles
 
             while(player.HP > 0)
             {
-                Console.WriteLine("Kezdődjön a túlélés!");
+                Console.Clear();
                 Console.WriteLine("Az adott gombok a következő akciókat hajtják végre: \n" +
                     "\t 1-es gomb: Elmegyünk az erdőbe (Tipp: Fa lelőhely!)" + 
                     "\n \t 2-es gomb: Hazavisz (Biztonságos zóna)" +
@@ -25,9 +25,16 @@ namespace Ismetles
                     "\n \t 5-ös gomb: A tóhoz visz (Tipp: Víz)");
                 Console.WriteLine("\nMit szeretnél csinálni: ");
                 int opcio = Convert.ToInt16(Console.ReadLine());
+
+                while (!int.TryParse(Console.ReadLine(), out opcio) || opcio < 1 || opcio > 5)
+                {
+                    Console.WriteLine("Érvénytelen bemenet! Adj meg egy számot 1 és 5 között:");
+                }
                 player.Mozgas(opcio);
 
-                Console.Clear();
+
+                Console.ReadKey();
+                
                 
             }
 
