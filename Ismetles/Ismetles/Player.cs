@@ -126,6 +126,7 @@ namespace Ismetles
         public void Favagas()
         {
             Inventory.Add(Items.Fa);
+            Console.WriteLine("Fa kivágva! Az inventoryhoz hozzáadva!");
         }
 
         public void ShowInventory()
