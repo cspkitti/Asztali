@@ -1,0 +1,7 @@
+C:\Users\72634510494\Documents\GitHub\Asztali\Ismetles\Ismetles\obj\Debug\Ismetles.csproj.AssemblyReference.cache
+C:\Users\72634510494\Documents\GitHub\Asztali\Ismetles\Ismetles\obj\Debug\Ismetles.csproj.CoreCompileInputs.cache
+C:\Users\72634510494\Documents\GitHub\Asztali\Ismetles\Ismetles\bin\Debug\Ismetles.exe.config
+C:\Users\72634510494\Documents\GitHub\Asztali\Ismetles\Ismetles\bin\Debug\Ismetles.exe
+C:\Users\72634510494\Documents\GitHub\Asztali\Ismetles\Ismetles\bin\Debug\Ismetles.pdb
+C:\Users\72634510494\Documents\GitHub\Asztali\Ismetles\Ismetles\obj\Debug\Ismetles.exe
+C:\Users\72634510494\Documents\GitHub\Asztali\Ismetles\Ismetles\obj\Debug\Ismetles.pdb
