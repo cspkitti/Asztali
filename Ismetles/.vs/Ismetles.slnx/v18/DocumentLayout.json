@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\72634510494\\Documents\\GitHub\\Asztali\\Ismetles\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C14E014-BEDC-4C32-AD68-CBA8981C33C7}|Ismetles\\Ismetles.csproj|c:\\users\\72634510494\\documents\\github\\asztali\\ismetles\\ismetles\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C14E014-BEDC-4C32-AD68-CBA8981C33C7}|Ismetles\\Ismetles.csproj|solutionrelative:ismetles\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8C14E014-BEDC-4C32-AD68-CBA8981C33C7}|Ismetles\\Ismetles.csproj|c:\\users\\72634510494\\documents\\github\\asztali\\ismetles\\ismetles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C14E014-BEDC-4C32-AD68-CBA8981C33C7}|Ismetles\\Ismetles.csproj|solutionrelative:ismetles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C14E014-BEDC-4C32-AD68-CBA8981C33C7}|Ismetles\\Ismetles.csproj|c:\\users\\72634510494\\documents\\github\\asztali\\ismetles\\ismetles\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C14E014-BEDC-4C32-AD68-CBA8981C33C7}|Ismetles\\Ismetles.csproj|C:\\Users\\72634510494\\Documents\\GitHub\\Asztali\\Ismetles\\ismetles\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C14E014-BEDC-4C32-AD68-CBA8981C33C7}|Ismetles\\Ismetles.csproj|solutionrelative:ismetles\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C14E014-BEDC-4C32-AD68-CBA8981C33C7}|Ismetles\\Ismetles.csproj|C:\\Users\\72634510494\\Documents\\GitHub\\Asztali\\Ismetles\\ismetles\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C14E014-BEDC-4C32-AD68-CBA8981C33C7}|Ismetles\\Ismetles.csproj|solutionrelative:ismetles\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,37 +22,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\72634510494\\Documents\\GitHub\\Asztali\\Ismetles\\Ismetles\\Program.cs",
               "RelativeDocumentMoniker": "Ismetles\\Program.cs",
               "ToolTip": "C:\\Users\\72634510494\\Documents\\GitHub\\Asztali\\Ismetles\\Ismetles\\Program.cs",
               "RelativeToolTip": "Ismetles\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCQAAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-07T08:04:13.224Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\72634510494\\Documents\\GitHub\\Asztali\\Ismetles\\Ismetles\\Player.cs",
               "RelativeDocumentMoniker": "Ismetles\\Player.cs",
               "ToolTip": "C:\\Users\\72634510494\\Documents\\GitHub\\Asztali\\Ismetles\\Ismetles\\Player.cs",
               "RelativeToolTip": "Ismetles\\Player.cs",
-              "ViewState": "AgIAAHMAAAAAAAAAAAAQwIAAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T08:29:15.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T08:29:15.973Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Enemy.cs",
               "DocumentMoniker": "C:\\Users\\72634510494\\Documents\\GitHub\\Asztali\\Ismetles\\Ismetles\\Enemy.cs",
               "RelativeDocumentMoniker": "Ismetles\\Enemy.cs",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "Ismetles\\Enemy.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAowBMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T08:59:07.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-07T08:59:07.957Z"
             }
           ]
         }
